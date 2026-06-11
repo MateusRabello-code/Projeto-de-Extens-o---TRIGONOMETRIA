@@ -40,7 +40,7 @@ Alunos do ensino fundamental em processo de aprendizagem da matemática básica.
 | Recurso | Link |
 |---------|------|
 | 🎮 **Game** | [Lições de Trigonometria Fundamental](https://wordwall.net/pt/resource/114843668/lições-de-trigonometria-fundamental-projeto-de-extensão) |
-| 🎬 **Vídeo do Projeto** | [Assistir no YouTube](https://youtube.com) |
+| 🎬 **Vídeo do Projeto** | [Assistir no YouTube](https://youtu.be/3y8yHGqhZSU) |
 
 ---
 
@@ -49,4 +49,4 @@ Alunos do ensino fundamental em processo de aprendizagem da matemática básica.
 | Plataforma | Link |
 |-----------|------|
 | **WORDWALL** | [wordwall.net/pt](https://wordwall.net/pt) |
-| **YOUTUBE** | [Link da Aula](https://youtube.com) |
+| **YOUTUBE** | [Link da Aula](https://youtu.be/3y8yHGqhZSU) |
